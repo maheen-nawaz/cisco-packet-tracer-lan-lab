@@ -31,7 +31,7 @@ COMMAND EXECUTED : ping 192.168.1.1
 SOURCE DEVICE    : PC0 (192.168.1.3)
 DESTINATION      : Mail Server (192.168.1.1)
 RESULT           : 0% Packet Loss, Successful Round-Trip Echo Replies
-<img width="1600" height="728" alt="network-topology png" src="https://github.com/user-attachments/assets/14b94090-8bc2-48d6-a856-26a22d37de92" />
+<img width="825" height="745" alt="icmp-ping-test png" src="https://github.com/user-attachments/assets/ea0de6bd-868a-4a39-b207-af9ee1c6d222" />
 
 
 3. PDU Simulation & Protocol Verification
